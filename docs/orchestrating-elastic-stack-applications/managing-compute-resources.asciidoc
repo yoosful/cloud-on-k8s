@@ -63,7 +63,7 @@ kind: Elasticsearch
 metadata:
   name: quickstart
 spec:
-  version: {version}
+  version: 7.10
   nodeSets:
   - name: default
     count: 1
